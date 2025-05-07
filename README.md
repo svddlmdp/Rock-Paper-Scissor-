@@ -14,4 +14,3 @@ This is a simple yet engaging **Rock Paper Scissors** game built with **HTML, CS
 - HTML5
 - CSS3
 - JavaScript (DOM API, localStorage)
-## 📂 Project Structure
